@@ -4,7 +4,7 @@ def prime?(n)
    if n > 2
      false
    elsif
-     n <= 4
+     n == 2
    else
      n <= 2
    end
