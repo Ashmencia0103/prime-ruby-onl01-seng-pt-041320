@@ -5,8 +5,8 @@ def prime?(n)
      false
    elsif
      n <= 4
-   else 
-     n <= 2   
+   else
+     n <= 2
    end
  prime?
 end
