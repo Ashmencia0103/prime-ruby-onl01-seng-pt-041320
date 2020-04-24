@@ -1,4 +1,23 @@
 # Add  code here!
+def prime?(n)
+
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # def prime?(n)
 # # Corner case
