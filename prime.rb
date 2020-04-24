@@ -1,6 +1,11 @@
 # Add  code here!
 def prime?(n)
-
+  n  = 1
+   if n > 2
+     false
+   else
+     n <= 2
+   end
 end
 
 
