@@ -1,6 +1,6 @@
 # Add  code here!
-def prime?(n)
-  n  = 1
+def prime?(2)
+  # n  = 1
    if n > 2
      false
    elsif
