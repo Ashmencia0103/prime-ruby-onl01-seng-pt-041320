@@ -1,10 +1,10 @@
 # Add  code here!
 def prime?(n)
-  n  = 2
-   if n > 2
-     false
+  n = [1...10]
+   if n
+
    elsif
-     n == 2
+     n == 3
    else
      n <= 2
    end
