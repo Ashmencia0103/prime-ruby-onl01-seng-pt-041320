@@ -6,6 +6,7 @@ def prime?(n)
    else
      n <= 2
    end
+ prime?
 end
 
 
