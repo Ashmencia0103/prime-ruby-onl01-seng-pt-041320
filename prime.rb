@@ -3,8 +3,10 @@ def prime?(n)
   n  = 1
    if n > 2
      false
-   else
-     n <= 2
+   elsif
+     n <= 4
+   else 
+     n <= 2   
    end
  prime?
 end
